@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nitin Ahuja
+- 👀 I’m interested in exploring new technologies
+- 🌱 I’m currently learning a google professional course on data analysis
+- 💞️ I’m looking to collaborate on a pyhon developer
+- 📫 Reach me @8888824262
